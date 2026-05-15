@@ -17,6 +17,10 @@
     transform: translateY(-5px);
 }
 
+.hide{
+    display: none;
+}
+
 img{
     width: 320px;
 }
